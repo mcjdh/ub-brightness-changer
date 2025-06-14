@@ -2,6 +2,8 @@
 .claude/
 settings.local.json
 
+.claude
+
 # Python cache files
 __pycache__/
 *.pyc
@@ -17,3 +19,5 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
+
+.gitignore
