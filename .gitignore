@@ -1,6 +1,9 @@
 # Claude AI assistant folder
 .claude/
 
+# Gitignore file itself
+.gitignore
+
 # Python cache files
 __pycache__/
 *.py[cod]
